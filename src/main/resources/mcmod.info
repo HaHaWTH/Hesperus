@@ -1,7 +1,7 @@
 [
   {
     "modid": "phosphor-lighting",
-    "name": "Hesperus, fork from Phosphor",
+    "name": "Hesperus",
     "description": "",
     "version": "${version}",
     "mcversion": "${mcversion}",
